@@ -1,0 +1,9 @@
+~~~~~~~DAY 1~~~~~~
+
+COMPILER- Compiler is a software in which it takes High Level Langauge as input and converts into Machine Level Language i.e., Low Level Language
+->compiler compiles entire program at once
+-> it is used in C,C++,JAVA...etc
+
+INTERPRETER-Interpreter is a software in which convertion done in Assembly Level language from High Level Language.
+->Interpreter takes only single line of code at a time
+-> It is used in python,php..etc
